@@ -1,0 +1,47 @@
+
+	body{
+			text-align: center;
+		}
+
+	.header{
+		border: solid lightgray;
+		border-width: 1px 1px 1px 1px;
+		height: 70px;
+	}	
+	.container{
+		border: solid lightgray;
+		border-width: 1px 1px 1px 1px;
+		height: 80%;
+	}	
+	footer{
+		border: solid lightgray;
+		border-width: 4px 1px 1px 1px;
+		height: 20%;
+	}
+
+
+	.center_a:link, .center_a:visited{
+		
+		color:white;
+	}
+
+	a:link, a:visited{
+		text-decoration: none;
+		color: #9a3d79;
+	}
+	a:hover{
+		cursor: pointer;
+	}
+
+
+		
+
+	img{
+		width: 70%;
+		height: 55%;
+		margin-bottom: 3%;
+	}	
+
+
+
+
