@@ -9,13 +9,26 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
+<link type="text/css" rel="stylesheet" href="./css/index.css"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<title>jang</title>
 </head>
 <body>
 
+<div class="icon-bar">
+	  <a class="active" href="#"><i class="fa fa-home"></i></a> 
+	  <a href="#"><i class="fa fa-search">CAREER</i></a> 
+	  <a href="#"><i class="fa fa-envelope">Mail</i></a> 
+	  <a href="#"><i class="fa fa-laptop">Project</i></a>
+	  <a href="#"><i class="fa fa-github">Git</i></a> 
+	</div>
+
+
+
+
 
 	<div class="header">
-		 <h2>장승훈 소개 페이지</h2>
+		 <h2>SeungHunJang CAREER</h2>
 		
 	</div>
 
@@ -24,13 +37,14 @@
 	
 			<img src="./img/intro.jpg">
 	</div>
-	
+
 	
 			<footer> 
 	    		<p> &copy; 2018 by JangSeungHun of Site. Web Page Construction 2018.05.29 </p>
 	    		<p>git 주소 : <a href="https://github.com/wkdtndgns" target="_blank">https://github.com/wkdtndgns</a></p>
 
 	 		 </footer>
+
 
 </body>
 </html>
