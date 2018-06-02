@@ -17,10 +17,10 @@
 
 	<div class="icon-bar">
 	  <a href="index.jsp"><i class="fa fa-home"></i></a> 
-	  <a href="#"><i class="fa fa-search">Skills</i></a> 
-	  <a href="https://blog.naver.com/wkdtndgns"><i class="fa fa-pencil-square-o">Blog</i></a> 
+	  <a href="skills.jsp"><i class="fa fa-search">Skills</i></a> 
+	  <a href="https://blog.naver.com/wkdtndgns" target="_blank"><i class="fa fa-pencil-square-o">Blog</i></a> 
 	  <a class="active" href="project.jsp"><i class="fa fa-laptop">Project</i></a>
-	  <a href="https://github.com/wkdtndgns"><i class="fa fa-github">Git</i></a> 
+	  <a href="https://github.com/wkdtndgns" target="_blank"><i class="fa fa-github">Git</i></a> 
 	</div>
 
 
