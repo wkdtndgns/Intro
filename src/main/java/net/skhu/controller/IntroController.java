@@ -6,20 +6,25 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 
 @Controller
-@RequestMapping("intro")
+
 public class IntroController {
 
-	  @RequestMapping("index")
+	  @RequestMapping(value={"/","intro/index"})
 	    public String Main(Model model) {
 
-	        return "index/index";
+	        return "intro/index";
 	    }
 
-	    @RequestMapping("project")
+	    @RequestMapping("intro/project")
 	    public String Project(Model model) {
 
-	        return "project/project";
+	        return "intro/project";
 	    }
 
+	    @RequestMapping("intro/skills")
+	    public String Skills(Model model) {
+
+	        return "intro/skills";
+	    }
 
 }
