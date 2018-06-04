@@ -9,19 +9,19 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 public class IntroController {
 
-	  @RequestMapping(value={"/","intro/index"})
+	  @RequestMapping(value={"/","intro/index","index"})
 	    public String Main(Model model) {
 
 	        return "intro/index";
 	    }
 
-	    @RequestMapping("intro/project")
+	    @RequestMapping("project")
 	    public String Project(Model model) {
 
 	        return "intro/project";
 	    }
 
-	    @RequestMapping("intro/skills")
+	    @RequestMapping("skills")
 	    public String Skills(Model model) {
 
 	        return "intro/skills";

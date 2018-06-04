@@ -9,17 +9,17 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<link type="text/css" rel="stylesheet" href="./css/project.css"/>
+<link type="text/css" rel="stylesheet" href="${R}css/project.css"/>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <title>jang</title>
 </head>
 <body>
 
 	<div class="icon-bar">
-	  <a href="index.jsp"><i class="fa fa-home"></i></a> 
-	  <a href="skills.jsp"><i class="fa fa-search">Skills</i></a> 
+	  <a href="index"><i class="fa fa-home"></i></a> 
+	  <a href="skills"><i class="fa fa-search">Skills</i></a> 
 	  <a href="https://blog.naver.com/wkdtndgns" target="_blank"><i class="fa fa-pencil-square-o">Blog</i></a> 
-	  <a class="active" href="project.jsp"><i class="fa fa-laptop">Project</i></a>
+	  <a class="active" href="project"><i class="fa fa-laptop">Project</i></a>
 	  <a href="https://github.com/wkdtndgns" target="_blank"><i class="fa fa-github">Git</i></a> 
 	</div>
 
