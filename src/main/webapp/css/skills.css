@@ -49,29 +49,52 @@
 
 
 	.icon-bar {
-    width: 100%;
-    background-color: #555;
-    overflow: auto;
-}
+	    width: 100%;
+	    background-color: #555;
+	    overflow: auto;
+	}
 
-.icon-bar a {
-    float: left;
-    width: 20%;
-    text-align: center;
-    padding: 12px 0;
-    transition: all 0.3s ease;
-    color: white;
-    font-size: 36px;
-}
+	.icon-bar a {
+	    float: left;
+	    width: 20%;
+	    text-align: center;
+	    padding: 12px 0;
+	    transition: all 0.3s ease;
+	    color: white;
+	    font-size: 36px;
+	}
 
-.icon-bar a:hover {
-    background-color: #000;
-}
+	.icon-bar a:hover {
+	    background-color: #000;
+	}
 
-.active {
-    background-color: #4CAF50 !important;
-}
+	.active {
+	    background-color: #4CAF50 !important;
+	}
 
+
+	img{
+			width: 90%;
+			height: 55%;
+			margin-bottom: 3%;
+		}	
+
+	.content {
+
+		border: 1px solid gray;
+		width: 100%;
+		height: 50%;
+
+	}
+
+	th{
+		font-size: 3em;
+		width: 150px;
+		padding-right: 248px;	
+	}
+	table{
+		margin-left: 16%;
+	}
 
 
 

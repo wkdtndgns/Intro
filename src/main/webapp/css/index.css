@@ -16,7 +16,7 @@
 		border-width: 1px 1px 1px 1px;
 		height: 100%;
 		 background-color: #333;
-		background-image: url(./img/pic02.jpg);
+		background-image: url(../img/pic02.jpg);
 
 		background-size: 100%;
 
@@ -109,3 +109,8 @@
 				opacity: 1;
 			}	
 		}
+		
+	.profile_h2{
+		transform: skewY(-7deg);
+		margin-bottom: 50px;
+	}

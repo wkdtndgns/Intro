@@ -9,7 +9,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<link type="text/css" rel="stylesheet" href="${R}css/skills.css"/>
+<link type="text/css" rel="stylesheet" href="${R}css/skills.css?ver=1"/>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <title>jang</title>
 </head>
@@ -33,6 +33,55 @@
 
 
 	<div class="container">
+	
+		<img src="${R}img/intro1.jpg">
+	
+		<div class="content">
+
+			<table>
+				<thead>
+					<tr>
+						<th>Language</th>
+						<th>TECH</th>
+						<th>DB</th>	
+					</tr>
+				</thead>
+
+			<tbody>
+					<tr>
+						<td>C</td>
+						<td>Spring</td>
+						<td>MySQL</td>		
+					</tr>
+					<tr>
+						<td>Java</td>
+						<td>React.JS</td>
+						<td>MongoDB</td>		
+					</tr>
+					<tr>
+						<td>JavaScript</td>
+						<td>MyBatis</td>
+						<td>Redis</td>		
+					</tr>
+					<tr>
+						<td>Html</td>
+						<td>JPA</td>		
+					</tr>
+					<tr>
+						<td>Css</td>
+						<td>Android</td>		
+					</tr>
+					<tr>
+						<td>Arduino</td>
+						<td>jQuery</td>		
+					</tr>
+					
+				</tbody>
+				
+
+			</table>
+
+		</div>
 
 		<div class="skills"> 
 			<h2> Java </h2>
