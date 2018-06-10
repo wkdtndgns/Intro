@@ -47,82 +47,43 @@
 					</tr>
 				</thead>
 
-			<tbody>
+		<tbody>
 					<tr>
-						<td>C</td>
-						<td>Spring</td>
-						<td>MySQL</td>		
+						<td>C <p>초급 &nbsp; &nbsp;&nbsp; (기본적인 문법 숙지) </p> </td>
+						<td>Spring  <p>중급 &nbsp; &nbsp;&nbsp; (여러 프로젝트 진행) </p> </td>
+						<td>MySQL <p>중급 &nbsp; &nbsp;&nbsp; (여러 프로젝트 진행) </p></td>		
 					</tr>
 					<tr>
-						<td>Java</td>
-						<td>React.JS</td>
-						<td>MongoDB</td>		
+						<td>Java <p>중급 &nbsp; &nbsp;&nbsp; (여러 프로젝트 진행) </p> </td>
+						<td>React.JS <p>초급 &nbsp; &nbsp;&nbsp; (기초적인 예제 학습)</p></td>
+						<td>MongoDB <p>초급 &nbsp; &nbsp;&nbsp; (스프링연동에 대한 문서 작성 및 채팅 웹 개발)</p> </td>		
 					</tr>
 					<tr>
-						<td>JavaScript</td>
-						<td>MyBatis</td>
-						<td>Redis</td>		
+						<td>JavaScript <p>초급 &nbsp; &nbsp;&nbsp; (콜 스텍에 관한 이해와 기초적인 함수 숙지 )</p> </td>
+						<td>MyBatis <p>중급 &nbsp; &nbsp;&nbsp; (디비 문법에 대한 이해로 여러 프로젝트 진행)</p> </td>
+						<td>Redis <p>초급 &nbsp; &nbsp;&nbsp; (프로젝트 진행을 위해 사용해봤습니다.)</p></td>		
 					</tr>
 					<tr>
-						<td>Html</td>
-						<td>JPA</td>		
+						<td>Html <p>고급 &nbsp; &nbsp;&nbsp; (대부분의 문법을 숙지하고 있고 HTML로 만든 것은 그대로 만들 수 있음)</p></td>
+						<td>JPA <p>중급 &nbsp; &nbsp;&nbsp; (여러 프로젝트 진행)</p></td>		
 					</tr>
 					<tr>
-						<td>Css</td>
-						<td>Android</td>		
+						<td>Css <p>고급 &nbsp; &nbsp;&nbsp; (다양한 툴로 작업해봤고 대부분의 기능을 숙지)</p></td>
+						<td>Android <p>초급 &nbsp; &nbsp;&nbsp; ( Adapter & list 사용 , Activity 전환 , 객체 사용)</p></td>		
 					</tr>
 					<tr>
-						<td>Arduino</td>
-						<td>jQuery</td>		
+						<td>Arduino <p>초급 &nbsp; &nbsp;&nbsp; (시리얼 함수들과 intterupt에 대한 개념 숙지, 아두이노로 스마트 스위치 개발)</p></td>
+						<td>jQuery <p>초급 &nbsp; &nbsp;&nbsp; (프로젝트에 기능을 사용해봤습니다.)</p></td>		
 					</tr>
 					
 				</tbody>
+				
 				
 
 			</table>
 
 		</div>
 
-		<div class="skills"> 
-			<h2> Java </h2>
-			<p> 중급 </p>
-		</div>
-
-		<div class="skills"> 
-			<h2> Mysql </h2>
-			<p> 중급 </p>
-		</div>
-		<div class="skills"> 
-			<h2> Jsp </h2>
-			<p> 중급 </p>
-		</div>
-		<div class="skills"> 
-			<h2> C </h2>
-			<p> 초급 </p>
-		</div>
-		<div class="skills"> 
-			<h2> MongoDB </h2>
-			<p> 초급 </p>
-		</div>
-		<div class="skills"> 
-			<h2> Android </h2>
-			<p> 초급 </p>
-		</div>
-
-		<div class="skills"> 
-			<h2> Redis </h2>
-			<p> 초급 </p>
-		</div>
-		
-		<div class="skills"> 
-			<h2> Arduino </h2>
-			<p> 초급 </p>
-		</div>
-
-		<div class="skills"> 
-			<h2> React.js  </h2>
-			<p> 초급 </p>
-		</div>
 		
 	</div>
 
