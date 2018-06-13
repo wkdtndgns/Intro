@@ -1,0 +1,72 @@
+	.Contact_head{
+
+			width: 450px;
+			height: 60px;
+	
+			padding-left: 60px;
+			padding-right: 60px;
+			background-color: #ffffff;
+
+		}
+		.Contact_text{
+			font-size: 50pt;
+			color: #a0a09f;	
+			
+				
+			text-align: center;	
+			display: inline-block;	
+
+		
+			animation: title 5s ease infinite;
+		}
+		.Contact_frame{
+			margin-top: 110px;
+		
+			height: 642px;
+		
+		}
+		
+		.Contact_header{
+			height: 90px;
+			background: url(line.png) no-repeat center;
+
+		}
+
+		.Contact_container{
+			width: 980px;
+			height: 582px;
+			margin-top: 70px;
+		
+		}
+
+		.Contact_info{
+			float: left;
+			margin-top: 48px;
+			color: #605e5e;
+			text-align: left;
+			width: 254px;
+		
+			display: inline-block;
+			height: 100px;
+		}
+
+		.Contact_input{
+			width: 689px;
+			margin-top: 48px;
+			margin-left: 35px;
+			border: solid 1px;
+			display: inline-block;
+			height: 150px;
+		}
+
+		.Contact_footer{
+
+			width: 500px;
+			height: 17px;
+			font-size: 10pt;
+			color: #605e5e;
+			margin-top: 30px;
+			float: center;
+		}
+
+		

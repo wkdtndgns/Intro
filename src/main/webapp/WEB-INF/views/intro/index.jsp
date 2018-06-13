@@ -10,6 +10,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <link type="text/css" rel="stylesheet" href="${R}css/index.css?ver=1"/>
+<link type="text/css" rel="stylesheet" href="${R}css/contact.css"/>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <title>jang</title>
 </head>
@@ -66,14 +67,13 @@
 	
 			
 	</div>
-
+		
+				<div class="Contact_input">
+						<input type="text" name="name" size="20" placeholder="이름:장승훈" style="float: left; width: 340px; color: #605e5e;">
+						<textarea rows="5" style="float: right; width: 340px;color: #605e5e;" placeholder="메시지"></textarea>
+						<input type="email" name="email" size="20" placeholder="이메일:wkdtndgns@naver.com" style="float: left; width: 340px;color: #605e5e;">
+						<input type="submit" value="send" style="float: right;margin-left: 600px;">
 	
-			<footer> 
-	    		<p> &copy; 2018 by JangSeungHun of Site. Web Page Construction 2018.05.29 </p>
-	    		<p>git 주소 : <a href="https://github.com/wkdtndgns" target="_blank">https://github.com/wkdtndgns</a></p>
-
-	 		 </footer>
-
 
 </body>
 </html>
