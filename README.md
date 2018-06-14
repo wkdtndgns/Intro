@@ -21,11 +21,14 @@
   
  # 사용 기술
  
- <img src="https://user-images.githubusercontent.com/24237454/41213785-6dbd60fe-6d82-11e8-9540-ded5d9fadbbf.PNG" width="300px"  >
- <img src="https://user-images.githubusercontent.com/24237454/41344214-805e5e24-6f3b-11e8-8c86-bb58e4e9cc6f.PNG" width="300px" >
- <img src="https://user-images.githubusercontent.com/24237454/41344225-8a0dde22-6f3b-11e8-9a4a-33f4ac23768d.PNG" width="300px" >
- <img src="https://user-images.githubusercontent.com/24237454/41344248-92cc3aa4-6f3b-11e8-9684-2a32f3e3c766.PNG" width="300px" >
+ <br/>
+ 
+![intro](https://user-images.githubusercontent.com/24237454/41399670-e033b0dc-6ff5-11e8-9020-08f9639c09b5.PNG)
 
+
+- 빨간색 : 소스코드, 문서 등을 저장한 공간소와 배포 서버 안내.
+- 파란색 : Front-End 영역.
+- 초록색 : Back-End 영역.
  
   <br/>
  
